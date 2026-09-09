@@ -33,7 +33,6 @@ Ce qui m'intéresse : comprendre une stack de bout en bout — de l'interface à
 
 <p align="center">
 <a href="https://react.dev" title="React"><img height="44" src="https://cdn.simpleicons.org/react/61DAFB" alt="React"></a>&nbsp;&nbsp;
-<a href="https://reactnative.dev" title="React Native"><img height="44" src="https://cdn.simpleicons.org/react/61DAFB" alt="React Native"></a>&nbsp;&nbsp;
 <a href="https://expo.dev" title="Expo"><img height="44" src="https://cdn.simpleicons.org/expo/000020" alt="Expo"></a>&nbsp;&nbsp;
 <a href="https://vitejs.dev" title="Vite"><img height="44" src="https://cdn.simpleicons.org/vite/646CFF" alt="Vite"></a>&nbsp;&nbsp;
 <a href="https://tailwindcss.com" title="Tailwind CSS"><img height="44" src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS"></a>&nbsp;&nbsp;
@@ -41,7 +40,7 @@ Ce qui m'intéresse : comprendre une stack de bout en bout — de l'interface à
 <a href="https://tanstack.com" title="TanStack Query / Router"><img height="44" src="https://cdn.simpleicons.org/tanstack/FF4154" alt="TanStack"></a>
 </p>
 
-NativeWind · Zustand · Zod · React Hook Form
+React Native (Expo Router) · NativeWind · Zustand · Zod · React Hook Form
 
 **Backend & Données**
 
@@ -101,10 +100,13 @@ Snipe-IT (gestion de parc)
 **Cybersécurité & OSINT**
 
 <p align="center">
-<a href="https://www.torproject.org" title="Tor"><img height="44" src="https://cdn.simpleicons.org/torproject/7D4698" alt="Tor"></a>
+<a href="https://www.torproject.org" title="Tor"><img height="44" src="https://cdn.simpleicons.org/torproject/7D4698" alt="Tor"></a>&nbsp;&nbsp;
+<a href="https://www.wireshark.org" title="Wireshark"><img height="44" src="https://cdn.simpleicons.org/wireshark/1679A7" alt="Wireshark"></a>&nbsp;&nbsp;
+<img height="44" src="https://cdn.simpleicons.org/hackthebox/9FEF00" alt="Hack The Box" title="Hack The Box">&nbsp;&nbsp;
+<img height="44" src="https://cdn.simpleicons.org/tryhackme/D2202D" alt="TryHackMe" title="TryHackMe">
 </p>
 
-OSINT (Maigret, WhatsMyName, h8mail) · scan de secrets (gitleaks, trufflehog) · cryptographie appliquée · write-ups CTF
+OSINT (Maigret, WhatsMyName, h8mail) · Nmap · SSH · scan de secrets (gitleaks, trufflehog) · cryptographie appliquée · write-ups CTF
 
 ## Projets
 
