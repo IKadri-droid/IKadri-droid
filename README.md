@@ -24,7 +24,7 @@ Ce qui m'intéresse : comprendre une stack de bout en bout — de l'interface à
 <a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript"><img height="44" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript"></a>&nbsp;&nbsp;
 <a href="https://www.python.org" title="Python"><img height="44" src="https://cdn.simpleicons.org/python/3776AB" alt="Python"></a>&nbsp;&nbsp;
 <a href="https://go.dev" title="Go"><img height="44" src="https://cdn.simpleicons.org/go/00ADD8" alt="Go"></a>&nbsp;&nbsp;
-<a href="https://www.java.com" title="Java"><img height="44" src="https://cdn.simpleicons.org/openjdk/437291" alt="Java"></a>&nbsp;&nbsp;
+<a href="https://www.java.com" title="Java"><img height="44" src="https://cdn.simpleicons.org/openjdk/FFFFFF" alt="Java"></a>&nbsp;&nbsp;
 <a href="https://developer.mozilla.org/docs/Web/HTML" title="HTML5"><img height="44" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5"></a>&nbsp;&nbsp;
 <a href="https://developer.mozilla.org/docs/Web/CSS" title="CSS3"><img height="44" src="https://cdn.simpleicons.org/css/1572B6" alt="CSS3"></a>
 </p>
@@ -47,9 +47,9 @@ React Native (Expo Router) · NativeWind · Zustand · Zod · React Hook Form
 <p align="center">
 <a href="https://nodejs.org" title="Node.js"><img height="44" src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js"></a>&nbsp;&nbsp;
 <a href="https://discord.js.org" title="discord.js"><img height="44" src="https://cdn.simpleicons.org/discord/5865F2" alt="discord.js"></a>&nbsp;&nbsp;
-<a href="https://www.prisma.io" title="Prisma"><img height="44" src="https://cdn.simpleicons.org/prisma/2D3748" alt="Prisma"></a>&nbsp;&nbsp;
+<a href="https://www.prisma.io" title="Prisma"><img height="44" src="https://cdn.simpleicons.org/prisma/FFFFFF" alt="Prisma"></a>&nbsp;&nbsp;
 <a href="https://www.postgresql.org" title="PostgreSQL"><img height="44" src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL"></a>&nbsp;&nbsp;
-<a href="https://www.sqlite.org" title="SQLite"><img height="44" src="https://cdn.simpleicons.org/sqlite/003B57" alt="SQLite"></a>&nbsp;&nbsp;
+<a href="https://www.sqlite.org" title="SQLite"><img height="44" src="https://cdn.simpleicons.org/sqlite/FFFFFF" alt="SQLite"></a>&nbsp;&nbsp;
 <a href="https://supabase.com" title="Supabase"><img height="44" src="https://cdn.simpleicons.org/supabase/3FCF8E" alt="Supabase"></a>&nbsp;&nbsp;
 <a href="https://neon.tech" title="Neon"><img height="44" src="https://cdn.simpleicons.org/neon/00E599" alt="Neon"></a>&nbsp;&nbsp;
 <a href="https://jwt.io" title="JSON Web Tokens"><img height="44" src="https://cdn.simpleicons.org/jsonwebtokens/FFFFFF" alt="JWT"></a>&nbsp;&nbsp;
@@ -101,7 +101,7 @@ Snipe-IT (gestion de parc)
 
 <p align="center">
 <a href="https://www.torproject.org" title="Tor"><img height="44" src="https://cdn.simpleicons.org/torproject/7D4698" alt="Tor"></a>&nbsp;&nbsp;
-<a href="https://www.wireshark.org" title="Wireshark"><img height="44" src="https://cdn.simpleicons.org/wireshark/1679A7" alt="Wireshark"></a>&nbsp;&nbsp;
+<a href="https://www.wireshark.org" title="Wireshark"><img height="44" src="https://cdn.simpleicons.org/wireshark/FFFFFF" alt="Wireshark"></a>&nbsp;&nbsp;
 <img height="44" src="https://cdn.simpleicons.org/hackthebox/9FEF00" alt="Hack The Box" title="Hack The Box">&nbsp;&nbsp;
 <img height="44" src="https://cdn.simpleicons.org/tryhackme/D2202D" alt="TryHackMe" title="TryHackMe">
 </p>
