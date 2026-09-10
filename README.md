@@ -33,11 +33,13 @@ Ce qui m'intéresse : comprendre une stack de bout en bout — de l'interface à
 
 <p align="center">
 <a href="https://react.dev" title="React"><img height="44" src="https://cdn.simpleicons.org/react/61DAFB" alt="React"></a>&nbsp;&nbsp;
-<a href="https://expo.dev" title="Expo"><img height="44" src="https://cdn.simpleicons.org/expo/000020" alt="Expo"></a>&nbsp;&nbsp;
+<a href="https://expo.dev" title="Expo"><img height="44" src="https://cdn.simpleicons.org/expo/FFFFFF" alt="Expo"></a>&nbsp;&nbsp;
 <a href="https://vitejs.dev" title="Vite"><img height="44" src="https://cdn.simpleicons.org/vite/646CFF" alt="Vite"></a>&nbsp;&nbsp;
 <a href="https://tailwindcss.com" title="Tailwind CSS"><img height="44" src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS"></a>&nbsp;&nbsp;
 <a href="https://www.radix-ui.com" title="Radix UI"><img height="44" src="https://cdn.simpleicons.org/radixui/FFFFFF" alt="Radix UI"></a>&nbsp;&nbsp;
-<a href="https://tanstack.com" title="TanStack Query / Router"><img height="44" src="https://cdn.simpleicons.org/tanstack/FF4154" alt="TanStack"></a>
+<a href="https://tanstack.com" title="TanStack Query / Router"><img height="44" src="https://cdn.simpleicons.org/tanstack/FF4154" alt="TanStack"></a>&nbsp;&nbsp;
+<a href="https://nextjs.org" title="Next.js"><img height="44" src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" alt="Next.js"></a>&nbsp;&nbsp;
+<a href="https://vuejs.org" title="Vue.js"><img height="44" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue.js"></a>
 </p>
 
 React Native (Expo Router) · NativeWind · Zustand · Zod · React Hook Form
@@ -46,9 +48,12 @@ React Native (Expo Router) · NativeWind · Zustand · Zod · React Hook Form
 
 <p align="center">
 <a href="https://nodejs.org" title="Node.js"><img height="44" src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js"></a>&nbsp;&nbsp;
+<a href="https://expressjs.com" title="Express"><img height="44" src="https://cdn.simpleicons.org/express/FFFFFF" alt="Express"></a>&nbsp;&nbsp;
 <a href="https://discord.js.org" title="discord.js"><img height="44" src="https://cdn.simpleicons.org/discord/5865F2" alt="discord.js"></a>&nbsp;&nbsp;
 <a href="https://www.prisma.io" title="Prisma"><img height="44" src="https://cdn.simpleicons.org/prisma/FFFFFF" alt="Prisma"></a>&nbsp;&nbsp;
 <a href="https://www.postgresql.org" title="PostgreSQL"><img height="44" src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL"></a>&nbsp;&nbsp;
+<a href="https://www.mysql.com" title="MySQL"><img height="44" src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL"></a>&nbsp;&nbsp;
+<a href="https://www.mongodb.com" title="MongoDB"><img height="44" src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB"></a>&nbsp;&nbsp;
 <a href="https://www.sqlite.org" title="SQLite"><img height="44" src="https://cdn.simpleicons.org/sqlite/FFFFFF" alt="SQLite"></a>&nbsp;&nbsp;
 <a href="https://supabase.com" title="Supabase"><img height="44" src="https://cdn.simpleicons.org/supabase/3FCF8E" alt="Supabase"></a>&nbsp;&nbsp;
 <a href="https://neon.tech" title="Neon"><img height="44" src="https://cdn.simpleicons.org/neon/00E599" alt="Neon"></a>&nbsp;&nbsp;
@@ -58,7 +63,7 @@ React Native (Expo Router) · NativeWind · Zustand · Zod · React Hook Form
 <a href="https://fastapi.tiangolo.com" title="FastAPI"><img height="44" src="https://cdn.simpleicons.org/fastapi/009688" alt="FastAPI"></a>
 </p>
 
-GORM · go-chi · Groq SDK (LLaMA)
+GORM · go-chi · Groq SDK (LLaMA) · REST APIs
 
 **Systèmes & scripting**
 
@@ -103,93 +108,28 @@ Snipe-IT (gestion de parc)
 <a href="https://www.torproject.org" title="Tor"><img height="44" src="https://cdn.simpleicons.org/torproject/7D4698" alt="Tor"></a>&nbsp;&nbsp;
 <a href="https://www.wireshark.org" title="Wireshark"><img height="44" src="https://cdn.simpleicons.org/wireshark/FFFFFF" alt="Wireshark"></a>&nbsp;&nbsp;
 <img height="44" src="https://cdn.simpleicons.org/hackthebox/9FEF00" alt="Hack The Box" title="Hack The Box">&nbsp;&nbsp;
-<img height="44" src="https://cdn.simpleicons.org/tryhackme/D2202D" alt="TryHackMe" title="TryHackMe">
+<img height="44" src="https://cdn.simpleicons.org/tryhackme/D2202D" alt="TryHackMe" title="TryHackMe">&nbsp;&nbsp;
+<a href="https://portswigger.net/burp" title="Burp Suite"><img height="44" src="https://cdn.simpleicons.org/burpsuite" alt="Burp Suite"></a>&nbsp;&nbsp;
+<a href="https://www.metasploit.com" title="Metasploit"><img height="44" src="https://cdn.simpleicons.org/metasploit" alt="Metasploit"></a>
 </p>
 
 OSINT (Maigret, WhatsMyName, h8mail) · Nmap · SSH · scan de secrets (gitleaks, trufflehog) · cryptographie appliquée · write-ups CTF
 
-## Projets
+## Ce que je fais
 
-### 🔎 Where My Informations — outil d'auto-audit OSINT
+| Domaine | Détail |
+|---|---|
+| **Développement Web** | Applications full-stack — React/Vite en frontend, API REST en Go et Node.js, bases de données relationnelles |
+| **Développement Mobile** | Applications React Native (Expo) avec authentification, paiement et monitoring en production |
+| **Bots & Automatisation** | Bots Discord avec base de données, intégrations IA et API tierces |
+| **Cybersécurité & OSINT** | Outils d'audit de vie privée, tests d'intrusion, analyse de vulnérabilités |
 
-Outil personnel qui découvre où un email, un pseudo ou un nom apparaissent sur le web (et le dark web), puis aide à faire supprimer ce qui doit l'être.
+## Focus actuel
 
-- **Stack** : Python 3.10+, `http.server` (aucun framework), HTML/CSS/JS vanilla pour l'interface locale
-- **OSINT** : scan email (188+ sites, MailAccess, h8mail), scan pseudo (Maigret, WhatsMyName, détection par IA), recherche par nom sur les data brokers
-- **Dark web** : recherche via Tor (16+ moteurs .onion), enquête pilotée par IA — verrous de consentement éthique sur les fonctions sensibles
-- **Sécurité** : scan de secrets sur ses propres dépôts (gitleaks/trufflehog), chiffrement local des exports, tout reste en local
-- Suite de tests (pytest) + CI GitHub Actions · Licence AGPL-3.0
-
-🔒 *Dépôt privé*
-
-### 👑 Kings of Villam — bot Discord RPG
-
-Bot Discord RPG complet avec exploration 2D en temps réel, combats, économie joueur-à-joueur, guildes, PvP classé et assistant IA.
-
-- **Stack** : TypeScript · discord.js v14 · Sapphire · Prisma ORM · PostgreSQL (Supabase/Neon) · Groq (LLaMA) · Trello API
-- 38 commandes slash, 16 modèles de base de données, architecture modulaire par fonctionnalité
-
-[Code source](https://github.com/IKadri-droid/Bot-discord-JS)
-
-### 🥗 Croc ta diète — application mobile de suivi nutritionnel
-
-Application mobile complète de suivi alimentaire, du prototypage à la production.
-
-- **Mobile** : React Native (Expo Router) · NativeWind · Zustand · TanStack Query · React Hook Form + Zod · Stripe · Sentry
-- **Backend** : Go en architecture propre (`cmd` / `internal` / `pkg`), go-chi, PostgreSQL, JWT, conteneurisé avec Docker (Cloudflare Workers pour une partie de l'infra)
-- Prototype Figma et supports de présentation inclus dans le dépôt
-
-🔒 *Dépôt privé*
-
-### ⚔️ TaskQuest — gestionnaire de tâches gamifié
-
-Application de bureau Java qui transforme une to-do list en quête RPG (XP, niveaux, titres, succès).
-
-- **Stack** : Java 17 · JavaFX · SQLite (JDBC, requêtes préparées) · Maven · JUnit 5
-- Architecture MVC + repository, gestion d'exceptions métier dédiées
-- Projet universitaire — Bachelor Informatique B1
-
-🔒 *Dépôt privé*
-
-### 🎵 Groupie Tracker — projet école
-
-Application web affichant des données d'artistes/concerts via une API, réalisée en binôme.
-
-- **Backend** : Go · **Frontend** : Vite/TypeScript
-
-🔒 *Dépôts privés*
-
-### 🏰 Royaume Pixel — Puissance 4
-
-Jeu de Puissance 4 en ligne, interface pixel art médiévale, parties en temps réel.
-
-- **Stack** : Go · gorilla/websocket · HTML/CSS
-- Système de thèmes persistants (5 décors), détection de victoire/match nul automatique
-
-🔒 *Dépôt privé*
-
-### 🎙️ SpeakWritter — dictée vocale locale
-
-Bloc-notes à dictée vocale qui tourne entièrement en local dans le navigateur (Web Speech API), sans compte ni envoi de données.
-
-- **Stack** : HTML/CSS/JS vanilla · serveur local Python (stdlib uniquement)
-- Ponctuation vocale, commandes d'édition à la voix, dictionnaire technique et personnel
-
-[Code source](https://github.com/IKadri-droid/Speakwriter)
-
-### 💼 Portfolio
-
-Site portfolio personnel.
-
-- **Stack** : React 19 · Vite · Tailwind CSS
-
-[Code source](https://github.com/IKadri-droid/Portfolio-ilyace)
-
-## En ce moment
-
-- Formation **Bachelor Informatique** (B2, 2026-2027)
-- Approfondissement **OSINT & cybersécurité** (CTF, sécurisation d'outils personnels)
-- Projets full-stack persos en parallèle des projets d'école
+- 🎯 **Pentesting** — tests d'intrusion et exploitation de vulnérabilités (Burp Suite, Metasploit, mises en pratique sur Hack The Box et TryHackMe)
+- 📊 **Analyse de données** — collecte, corrélation et traitement de données à grande échelle (OSINT)
+- 🔭 **Building** — je décortique le fonctionnement interne des **LLM**, en local comme dans le cloud, avec l'objectif de devenir expert sur le sujet (architecture, fine-tuning, intégration, sécurisation)
+- 🌱 Veille technique continue en sécurité applicative et réseau
 
 ---
 
