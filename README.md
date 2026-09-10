@@ -2,8 +2,8 @@
 
   <h1>IKadri-droid</h1>
 
-  <p><strong>Développement Full-Stack & Cybersécurité — OSINT</strong></p>
-  <p>Bachelor Informatique (B2, 2026-2027) · Web · Mobile · Bots · Sécurité applicative</p>
+  <p><strong>Étudiant en Bachelor Informatique · Spécialisation Cybersécurité</strong></p>
+  <p>Développement full-stack · Pentesting · OSINT</p>
 
 </div>
 
@@ -11,9 +11,7 @@
 
 ## À propos
 
-En formation Bachelor Informatique, je construis des projets full-stack (web, mobile, bots) tout en approfondissant en parallèle la **cybersécurité et l'OSINT** — veille, écriture de write-ups CTF, et un outil d'auto-audit de vie privée développé de zéro.
-
-Ce qui m'intéresse : comprendre une stack de bout en bout — de l'interface à la base de données — et appliquer une vraie rigueur sécurité (secrets hors du code, requêtes préparées, dépendances auditées) même sur des projets étudiants.
+Étudiant en Bachelor Informatique (B2, 2026-2027), je construis des projets full-stack (web, mobile, bots) et je me spécialise aujourd'hui en **cybersécurité** — pentesting, OSINT et analyse de données. J'aime comprendre une stack de bout en bout et appliquer une vraie rigueur sécurité, même sur mes projets étudiants.
 
 ## Compétences
 
@@ -48,11 +46,10 @@ React Native (Expo Router) · NativeWind · Zustand · Zod · React Hook Form
 
 <p align="center">
 <a href="https://nodejs.org" title="Node.js"><img height="44" src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js"></a>&nbsp;&nbsp;
-<a href="https://expressjs.com" title="Express"><img height="44" src="https://cdn.simpleicons.org/express/FFFFFF" alt="Express"></a>&nbsp;&nbsp;
 <a href="https://discord.js.org" title="discord.js"><img height="44" src="https://cdn.simpleicons.org/discord/5865F2" alt="discord.js"></a>&nbsp;&nbsp;
 <a href="https://www.prisma.io" title="Prisma"><img height="44" src="https://cdn.simpleicons.org/prisma/FFFFFF" alt="Prisma"></a>&nbsp;&nbsp;
 <a href="https://www.postgresql.org" title="PostgreSQL"><img height="44" src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL"></a>&nbsp;&nbsp;
-<a href="https://www.mysql.com" title="MySQL"><img height="44" src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL"></a>&nbsp;&nbsp;
+<a href="https://www.mysql.com" title="MySQL"><img height="44" src="https://cdn.simpleicons.org/mysql/FFFFFF" alt="MySQL"></a>&nbsp;&nbsp;
 <a href="https://www.mongodb.com" title="MongoDB"><img height="44" src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB"></a>&nbsp;&nbsp;
 <a href="https://www.sqlite.org" title="SQLite"><img height="44" src="https://cdn.simpleicons.org/sqlite/FFFFFF" alt="SQLite"></a>&nbsp;&nbsp;
 <a href="https://supabase.com" title="Supabase"><img height="44" src="https://cdn.simpleicons.org/supabase/3FCF8E" alt="Supabase"></a>&nbsp;&nbsp;
@@ -71,7 +68,7 @@ GORM · go-chi · Groq SDK (LLaMA) · REST APIs
 <a href="https://www.linux.org" title="Linux"><img height="44" src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux"></a>&nbsp;&nbsp;
 <a href="https://www.debian.org" title="Debian"><img height="44" src="https://cdn.simpleicons.org/debian/A81D33" alt="Debian"></a>&nbsp;&nbsp;
 <a href="https://archlinux.org" title="Arch Linux"><img height="44" src="https://cdn.simpleicons.org/archlinux/1793D1" alt="Arch Linux"></a>&nbsp;&nbsp;
-<a href="https://www.microsoft.com/windows-server" title="Windows Server"><img height="44" src="https://skillicons.dev/icons?i=windows" alt="Windows Server"></a>&nbsp;&nbsp;
+<a href="https://www.microsoft.com/windows-server" title="Windows Server"><img height="44" src="https://api.iconify.design/mdi:microsoft-windows.svg?color=%237FBA00" alt="Windows Server"></a>&nbsp;&nbsp;
 <a href="https://learn.microsoft.com/powershell" title="PowerShell"><img height="44" src="https://skillicons.dev/icons?i=powershell" alt="PowerShell"></a>&nbsp;&nbsp;
 <a href="https://www.gnu.org/software/bash" title="Bash"><img height="44" src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="Bash"></a>
 </p>
@@ -113,7 +110,6 @@ Snipe-IT (gestion de parc)
 <a href="https://www.metasploit.com" title="Metasploit"><img height="44" src="https://cdn.simpleicons.org/metasploit" alt="Metasploit"></a>
 </p>
 
-OSINT (Maigret, WhatsMyName, h8mail) · Nmap · SSH · scan de secrets (gitleaks, trufflehog) · cryptographie appliquée · write-ups CTF
 
 ## Ce que je fais
 
@@ -124,12 +120,6 @@ OSINT (Maigret, WhatsMyName, h8mail) · Nmap · SSH · scan de secrets (gitleaks
 | **Bots & Automatisation** | Bots Discord avec base de données, intégrations IA et API tierces |
 | **Cybersécurité & OSINT** | Outils d'audit de vie privée, tests d'intrusion, analyse de vulnérabilités |
 
-## Focus actuel
-
-- 🎯 **Pentesting** — tests d'intrusion et exploitation de vulnérabilités (Burp Suite, Metasploit, mises en pratique sur Hack The Box et TryHackMe)
-- 📊 **Analyse de données** — collecte, corrélation et traitement de données à grande échelle (OSINT)
-- 🔭 **Building** — je décortique le fonctionnement interne des **LLM**, en local comme dans le cloud, avec l'objectif de devenir expert sur le sujet (architecture, fine-tuning, intégration, sécurisation)
-- 🌱 Veille technique continue en sécurité applicative et réseau
 
 ---
 
