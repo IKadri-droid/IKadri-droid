@@ -68,7 +68,7 @@ GORM · go-chi · Groq SDK (LLaMA) · REST APIs
 <a href="https://www.linux.org" title="Linux"><img height="44" src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux"></a>&nbsp;&nbsp;
 <a href="https://www.debian.org" title="Debian"><img height="44" src="https://cdn.simpleicons.org/debian/A81D33" alt="Debian"></a>&nbsp;&nbsp;
 <a href="https://archlinux.org" title="Arch Linux"><img height="44" src="https://cdn.simpleicons.org/archlinux/1793D1" alt="Arch Linux"></a>&nbsp;&nbsp;
-<a href="https://www.microsoft.com/windows-server" title="Windows Server"><img height="44" src="[https://api.iconify.design/mdi:microsoft-windows.svg?color=%237FBA00](https://ninjapng.com/public/storage/front-png/png-clipartmicrosoft-logo-png-windows-icon-microsoft-office-365-edge-logo-vector-brand-tech-company-free-download5632276-thumbnail.webp)" alt="Windows Server"></a>&nbsp;&nbsp;
+<a href="https://www.microsoft.com/windows-server" title="Windows Server"><img height="44" src="https://ninjapng.com/public/storage/front-png/png-clipartmicrosoft-logo-png-windows-icon-microsoft-office-365-edge-logo-vector-brand-tech-company-free-download5632276-thumbnail.webp" alt="Windows Server"></a>&nbsp;&nbsp;
 <a href="https://learn.microsoft.com/powershell" title="PowerShell"><img height="44" src="https://skillicons.dev/icons?i=powershell" alt="PowerShell"></a>&nbsp;&nbsp;
 <a href="https://www.gnu.org/software/bash" title="Bash"><img height="44" src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="Bash"></a>
 </p>
