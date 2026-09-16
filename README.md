@@ -81,11 +81,8 @@ GORM · go-chi · Groq SDK (LLaMA) · REST APIs
 <a href="https://github.com" title="GitHub"><img height="44" src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub"></a>&nbsp;&nbsp;
 <a href="https://about.gitlab.com" title="GitLab"><img height="44" src="https://cdn.simpleicons.org/gitlab/FC6D26" alt="GitLab"></a>&nbsp;&nbsp;
 <a href="https://about.gitea.com" title="Gitea"><img height="44" src="https://cdn.simpleicons.org/gitea/609926" alt="Gitea"></a>&nbsp;&nbsp;
-<a href="https://github.com/features/actions" title="GitHub Actions"><img height="44" src="https://cdn.simpleicons.org/githubactions/2088FF" alt="GitHub Actions"></a>&nbsp;&nbsp;
-<a href="https://maven.apache.org" title="Maven"><img height="44" src="https://cdn.simpleicons.org/apachemaven/C71A36" alt="Maven"></a>&nbsp;&nbsp;
 <a href="https://www.figma.com" title="Figma"><img height="44" src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma"></a>&nbsp;&nbsp;
 <a href="https://excalidraw.com" title="Excalidraw"><img height="44" src="https://cdn.simpleicons.org/excalidraw/6965DB" alt="Excalidraw"></a>&nbsp;&nbsp;
-<a href="https://sentry.io" title="Sentry"><img height="44" src="https://cdn.simpleicons.org/sentry/FFFFFF" alt="Sentry"></a>&nbsp;&nbsp;
 <a href="https://www.cloudflare.com" title="Cloudflare Workers"><img height="44" src="https://cdn.simpleicons.org/cloudflare/F38020" alt="Cloudflare"></a>&nbsp;&nbsp;
 <a href="https://code.visualstudio.com" title="VS Code"><img height="44" src="https://skillicons.dev/icons?i=vscode" alt="VS Code"></a>
 </p>
