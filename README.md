@@ -108,7 +108,7 @@ Snipe-IT (gestion de parc)
 <img height="44" src="https://cdn.simpleicons.org/tryhackme/D2202D" alt="TryHackMe" title="TryHackMe">&nbsp;&nbsp;
 <a href="https://portswigger.net/burp" title="Burp Suite"><img height="44" src="https://cdn.simpleicons.org/burpsuite" alt="Burp Suite"></a>&nbsp;&nbsp;
 <a href="https://www.metasploit.com" title="Metasploit"><img height="44" src="https://cdn.simpleicons.org/metasploit" alt="Metasploit"></a>&nbsp;&nbsp;
-<a href="https://www.cisco.com" title="Cisco"><img height="44" src="https://cdn.simpleicons.org/cisco/1BA0D7" alt="Cisco"></a>&nbsp;&nbsp;
+<a href="https://www.cisco.com" title="Cisco"><img height="44" src="https://cdn.iconscout.com/icon/free/png-512/free-cisco-logo-icon-svg-download-png-1579764.png?f=webp&w=256" alt="Cisco"></a>&nbsp;&nbsp;
 <a href="https://www.cisco.com/certifications/ccna" title="CCNA"><img height="44" src="https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA"></a>
 </p>
 
