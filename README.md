@@ -96,7 +96,7 @@ Snipe-IT (gestion de parc)
 <a href="https://n8n.io" title="n8n"><img height="44" src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n"></a>&nbsp;&nbsp;
 <a href="https://claude.com" title="Claude"><img height="44" src="https://cdn.simpleicons.org/claude" alt="Claude"></a>&nbsp;&nbsp;
 <a href="https://gemini.google.com" title="Google Gemini"><img height="44" src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Google Gemini"></a>&nbsp;&nbsp;
-<a href="https://chat.openai.com" title="ChatGPT"><img height="44" src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge" alt="ChatGPT"></a>&nbsp;&nbsp;
+<a href="https://chat.openai.com" title="ChatGPT"><img height="44" src="[https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge](https://logos-world.net/wp-content/uploads/2023/02/ChatGPT-Logo.png)" alt="ChatGPT"></a>&nbsp;&nbsp;
 <a href="https://ollama.com" title="Ollama"><img height="44" src="https://cdn.simpleicons.org/ollama/FFFFFF" alt="Ollama"></a>
 </p>
 
